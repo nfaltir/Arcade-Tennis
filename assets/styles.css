@@ -1,0 +1,22 @@
+.body-main {
+	background: #6930c3;
+	font-family: 'Press Start 2P';
+	color: black;
+}
+
+.container {
+	color: #ffa41b;
+	font-family: 'Press Start 2P';
+	padding-top: 2%;
+	font-size: 100px;
+}
+
+.canvas-body {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: auto;
+	border: 3px solid #ffa41b;
+}
